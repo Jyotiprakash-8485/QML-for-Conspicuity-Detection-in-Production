@@ -44,7 +44,7 @@ Key aspects of this implementation include:
 - **Optimization:** The Nesterov Momentum Optimizer is used to adjust the circuit parameters and minimize the mean squared error loss.
 - **Evaluation:**  The trained model is evaluated on a test dataset to assess its generalization performance.
 
-This example highlights the potential of variational quantum circuits for learning complex boolean functions and provides a foundation for exploring more advanced quantum machine learning applications. The file can be found in this repo or here(https://colab.research.google.com/drive/1-camys0Niffep1wBff4LDOzV0sdgIXZf?usp=sharing).
+This example highlights the potential of variational quantum circuits for learning complex boolean functions and provides a foundation for exploring more advanced quantum machine learning applications. The file can be found in this repo or [here](https://colab.research.google.com/drive/1-camys0Niffep1wBff4LDOzV0sdgIXZf?usp=sharing).
 
 **3. Task-2(B)-: Iris Classification with Quantum Machine Learning**
 
